@@ -1,9 +1,8 @@
 
-Sritej Gooty	
-sritejgooty@gmail.com 
+Sritej Gooty
 +91-9652781432
+sritejgooty@gmail.com 
 www.linkedin.com/in/sritejgooty 
-SkypeId:
 https://github.com/sritejgooty1/resume
 
 PROFILE SUMMARY
@@ -13,6 +12,7 @@ PROFILE SUMMARY
 •	Curious to learn new languages, software and tools quickly. 
 •	Ability to act on own initiative and make quick and effective decisions when necessary. 
 •	Ability to work hard and complete the given responsibilities in time
+•	Can work under extreme pressure
 
 TECHNICAL SKILLS
 •	SDLC: Agile, Waterfall                                                                        
@@ -47,10 +47,18 @@ ACADEMIC PROFILE
 M. Tech (Electrical Power Systems)
 JNTUA Pulivendula, AP.
 
-2013 - 2017                           77.69
- B. Tech (EEE)
+2013 - 2017                        77.69%
+B. Tech (EEE)
 Madanapalle Institute of Technology and Science, Madanapalle, AP 
-(JNTU Anantapur)
+(JNTU Anantapur, AP)
+
+2011-2013                          90.30%
+Intermediate
+Board of Intermediate Education, AP
+
+2010-2011                          85.67%
+SSC
+Board of Secondary School Education, AP.
 
 CERTIFICATIONS
 Trained in DevOps
@@ -66,6 +74,126 @@ Won First prize in Craft
 Organized School and College Anniversary Celebrations in successful manner
 Exhibited project on Village Panchayat in Science Fair during School days
  
+DevOps Environment
+
+Amazon Web Services: EC2
+•	Having very good knowledge wrt EC2’s like launching windows and Linux instances.
+•	Well aware of choosing AMI, selecting instance type, configuring instance, choosing storage, adding tags, creating security groups, launching instance, converting pem to ppk.
+•	Good grip on creating web servers.
+•	Well understanding of both system status checks and instance status checks and how to trouble shoot if system or instance fails.
+•	Good command on protection from accidental termination of instances.
+
+Source Code Management: Git and GitHub 
+•	Complete understanding of source code management, version control system, its working process and advantages.
+•	Having good knowledge in Git and its advantages over other SCM tools.
+•	Well aware of Installation and configuring Git and GitHub.
+•	Know about how to store all kinds of code in Git.
+•	Having good understanding of git terminology.
+•	Well aware of git stages like work space, stage/index, local repository and central repository.
+•	Complete understanding of snapshots and commits concepts.
+•	Good grip on attaching tags to refer commits as it is very difficult to remember commits ID's.
+•	Good knowledge in using git commands like git pull, git push, git fetch, git clone, git log and other git commands.
+•	Well aware of git concepts like ignoring git files, git stash.
+•	Complete awareness on dealing with git branching, merging branches, switching branches and resolve merge conflicts.
+•	Good understanding between git reset and git revert and also cleaning git repository.
+•	Good knowledge in some advanced concepts like git rebase, git bisect, git squash and git cherry pick.
+•	Well conscious about working with GitHub.
+
+Configuration Management Tool: Chef
+•	Very good knowledge on establishment of complete Chef environment 
+•	Well aware of Installation & configuring Chef Workstation, Chef Server and Bootstrapping Chef nodes.
+•	Having complete knowledge on working with chef server.
+•	Having good knowledge in working process of Knife, chef-client, Ohai tool and Idempotency concepts.
+•	Good grip in writing cookbooks.
+•	Having good knowledge in Ruby scripting for writing recipes to create chef resources.
+•	Well aware with the concepts like Metadata file and Run lists.
+•	Complete knowledge on creating configuration files by using Chef Attributes and deploying in Chef nodes.
+•	Well conscious with respect to the usage of Chef.
+•	Good grip in automation, running of chef-client instead of calling every time manually.
+•	Having very good knowledge in dealing with advanced concepts in chef like Roles for achieving complete automation.
+•	Well aware of advantages of Configuration Management process and usage of Chef tool. 
+
+Configuration Management Tool: Ansible
+•	Good grip in installing and configuration of Ansible.
+•	Well aware of advantages of ansible over other configuration tools.
+•	Good knowledge in dealing with inventory file and host patterns in adding hosts to inventory file and calling hosts.
+•	Good knowledge on using Ansible ad-hoc commands instead of using ansible-playbooks for each and every small task in Ansible.
+•	Good knowledge in using multiple ansible modules as and when required and their usage.
+•	Good knowledge in Idempotency concepts of Ansible.
+•	Well aware of writing YAML script in various playbooks.
+•	Well conscious of using various sections in Ansible like target section, task section, etc.
+•	Complete understanding of using variable section in many playbooks to take the advantage of variables instead of hard coding.
+•	Conscious on using handler section while managing dependencies in ansible playbook.
+•	Very good knowledge on using other Ansible concepts like loops to deal with multiple tasks simultaneously and conditionals.
+•	Well aware on using ansible vault to secure information like passwords and secret key files.
+•	Complete knowledge on using Ansible roles by including all sections inside ansible playbook.
+
+Virtualization and Containerization: Docker
+•	Having good knowledge in installation and configuring of Docker.
+•	Well aware of the advantages of Docker over other virtualization technologies in the market.
+•	Good knowledge in Docker concepts like OS level virtualization and layered file system which Docker follows.
+•	Good understanding of Docker, its components and Docker work flow.
+•	Very good grip in creating many Docker containers form Docker images.
+•	Having good knowledge in using docker images from docker hub as well as creating our own docker images form docker containers.
+•	Good understanding in working process of Dockerfile and also created docker images from Dockerfile.
+•	Good grip in creating private docker registry to store docker images so that only project members can able to access to make sure that security is at its peaks.
+•	Knowledge in creating Docker volumes to provide high availability to data even if any of the Docker container goes down.
+•	Well aware in sharing Docker volumes among containers and between container and host.
+•	Conscious in using Docker port mapping to expose port to outside of Docker container to access website which is running inside Docker container.
+•	Awareness on creating own local Docker registry server by taking registry image from DockerHub.
+•	Good knowledge in pulling and pushing Docker images from and to DockerHub.
+•	Having very good knowledge in using all kinds of docker instructions in Dockerfile.
+•	Good knowledge in creating demonized Docker containers.
+
+Container Orchestration: Kubernetes
+•	Good knowledge on installing and configuring Kubernetes in cloud environment.
+•	Well aware of advantages, architecture and complete work flow of Kubernetes.
+•	Good knowledge in each and every component of Kubernetes.
+•	Well aware of Installation and configuring K8S master and K8S nodes and established communication between them.
+•	Good understanding of K8S master node components like kube-api server, kube-scheduler and etcd store which forms control plane.
+•	Knowledge in K8S node components like kube-proxy, kubelet and container engine.
+•	Good understanding of single container pod as well as multi container pods.
+•	Well aware of pod limitations.
+
+
+CI and CD Tools: Jenkins          
+•	Good knowledge of installing and configuring Jenkins in both windows and Linux machines.
+•	Complete understanding of Jenkins work flow.
+•	Well aware in integrating many tools with Jenkins like Git, Maven, Selenium, Junit, Tomcat webservers.
+•	Knowledge on installing and configuring Java as Java is pre-requisite to install Jenkins.
+•	Complete understanding of installing and configuring build tools like Maven and Ant and integrated with Jenkins.
+•	Good grip in creating Free style projects and Maven projects and dependency projects.
+•	Very good knowledge on complete Jenkins CI-CD pipeline and complete workflow of build and delivery pipelines.
+•	Knowledge on installing various Jenkins plug-ins from Jenkins community as Jenkins is all about plug-in and play.
+•	Conscious in configuring many scheduled projects so that they can run frequently without manual trigger.
+•	Proficient in establishing complete pipeline work flow starting from pulling source code from Git repository till deploying end product into servers.
+•	Complete knowledge on creating many link projects and configured upstream and downstream projects.
+•	Well conscious on customizing Jenkins home page and creating own view as well as nested views.
+•	Knowledge in creating many user accounts in Jenkins and given limited privileges to them to ensure security is there in each and every stage by using Jenkins roles.
+•	Complete knowledge in creating many slaves to take the work load from Master Jenkins server.
+•	Good knowledge in deploying end product into Tomcat web server.
+                   
+Build Tool: Maven
+•	Complete knowledge of installation and configuring Maven.
+•	Well aware of advantages of using build tool over manual builds.
+•	Good understanding of architecture of Maven.
+•	Complete depth understanding of Maven build life cycle and Maven goals.
+•	Good understanding of Maven's main configuration file POM.XML.
+
+Monitoring Tool: AWS Cloud Watch
+•	Good knowledge on extensively used cloud monitoring service called Cloud Watch.
+•	Well aware of monitoring many things like CPU percentage, RAM space, Disk space and many more.
+•	Proficient in creating many cloud watch alarms so that will be alerted if any unusual thing happens and take necessary action to make sure in reducing downtime.
+•	Good understanding in creating different kinds of wizards like line, stacked and numbered wizards.
+•	Knowledge on different kinds of metrics which are being provided by AWS.
+•	Awareness on using both default monitoring and detailed monitoring.
+•	Complete knowledge in integrating cloud watch with so many other AWS services to make sure that there is high availability always.
+ 
+Monitoring Tool: Nagios
+•	Good knowledge on installation and configuring oldest and latest monitoring tool called Nagios.
+•	Well aware of complete workflow, architecture and advantages of Nagios monitoring tool.
+•	Good understanding of Nagios dashboard and monitoring things.
+•	Well aware of services in Nagios.
 
 
 
